@@ -25,5 +25,35 @@
     <p>A ideia da Copa do Mundo de Futebol foi proposta pela primeira vez pelo dirigente esportivo francês Jules Rimet em 1928. A primeira Copa do Mundo foi realizada em 1930 no Uruguai, com 13 equipes participantes. O Uruguai se sagrou campeão ao vencer a Argentina na final. No entanto, a competição enfrentou dificuldades devido à Segunda Guerra Mundial e não foi realizada em 1942 e 1946. A Copa do Mundo foi retomada em 1950 no Brasil, com o famoso "Maracanazo", quando o Uruguai derrotou o Brasil na final em pleno Maracanã. A competição continuou a crescer em popularidade e tamanho ao longo dos anos, com mais equipes e regiões participando. Grandes jogadores e momentos icônicos marcaram cada torneio, incluindo a ascensão de Pelé e a "Mão de Deus" de Maradona. Hoje, a Copa do Mundo é o maior e mais assistido evento esportivo do planeta, ocorrendo a cada quatro anos e reunindo seleções nacionais de todos os continentes para competir pelo título de campeão mundial. Esses são apenas resumos das ricas histórias do futebol e das Copas do Mundo. Ambos os tópicos têm muitos detalhes fascinantes e eventos importantes que moldaram o esporte e sua popularidade global.
     </p>
     <a href="#banner"> voltar</a>
+    <table>
+        <tr>
+            <td<h3>Ediçoes da copa</h3></td>
+        </tr>
+        <tr>
+            <td>1930 - Uruguai</td>
+            <td>1934 - Itália</td>
+            <td>1938 - França</td>
+            <td>1950 - Brasil</td>
+            <td>1954 - Suíça</td>
+            <td>1958 - Suécia</td>
+            <td>1962 - Chile</td>
+            <td>1966 - Inglaterra</td>
+            <td>1970 - México</td>
+            <td>1974 - Alemanha Ocidental</td>
+            <td>1978 - Argentina</td>
+            <td>1982 - Espanha</td>
+            <td>1986 - México</td>
+            <td>1990 - Itália</td>
+            <td>1994 - Estados Unidos</td>
+            <td>1998 - França</td>
+            <td>2002 - Coreia do Sul e Japão</td>
+            <td>2006 - Alemanha</td>
+            <td>2010 - África do Sul</td>
+            <td>2014 - Brasil</td>
+            <td>2018 - Rússia</td>
+            <td>2022 - Catar</td>
+            
+        </tr>
+    </table>
 </body>
 </html>
