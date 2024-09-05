@@ -7,7 +7,7 @@
 </head>
 <body>
     <img src="img/banner.png">
-    <a href="https://www.uniceub.br">ir para a página do CEUB</a>
+    <a href="https://www.uniceub.br" target="_blank">ir para a página do CEUB</a>
     <h1>Bem-vindos!</h1>
     <p> 
         "Amigos, senhoras e senhores, é com a emoção à flor da pele que adentramos as páginas desse extraordinário portal, dedicado a contar a história rica e gloriosa do esporte
