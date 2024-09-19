@@ -1,1 +1,28 @@
+.paragrafo{
+    font-family: Arial, helvetica,sans-serif;
+    font-size: 60pt;
+    color: #224e22;;
+}
+.paragrafo-2{
+    font-family: Arial, helvetica,sans-serif;
+    font-size: 40PT;
+    color: #ff0000;
+}
+body{
+    background-color: #8eb2d6;
+}
+h1{
+    font-family: Arial, helvetica,sans-serif;
+    color: #ff0d0d;
+}
+#textosimples{
+    font-weight: bolder;
+    color: #ff0000;
+    font-size: 35pt;
+    font-variant: italic;
+}
+.margen-titulo{
+    border:10px solid#ff0000;
+    padding-top: 10px;
+}
 
