@@ -5,17 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-        p{
+        .paragrafo{
             font-family: Arial, helvetica,sans-serif;
             font-size: 20pt;
             color: #224e22;
+        }
+        .paragrafo-2{
+            font-family: Arial, helvetica,sans-serif;
+            font-size: 50pt;
+            color: #ff0000;
+        }
+        body{
+            background-color: #223344;
+        }
+        h1{
+            font-family: Arial, helvetica,sans-serif;
+            color: #0805af;
         }
     </style>
 </head>
 <body>
     
-    <h1> Aula 1 de css</h1>
-    <p>texto da aula 1 de css meno</p>
-
+    <h1 title="tt"> Aula 1 de css</h1>
+    <p class="paragrafo">texto da aula 1 de css meno</p>
+    <p class="paragrafo-2">Meu outro texto</p>
 </body>
 </html>
