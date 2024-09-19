@@ -4,30 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-        .paragrafo{
-            font-family: Arial, helvetica,sans-serif;
-            font-size: 20pt;
-            color: #224e22;
-        }
-        .paragrafo-2{
-            font-family: Arial, helvetica,sans-serif;
-            font-size: 50pt;
-            color: #ff0000;
-        }
-        body{
-            background-color: #223344;
-        }
-        h1{
-            font-family: Arial, helvetica,sans-serif;
-            color: #0805af;
-        }
-    </style>
+    <link rel="stylesheet" href="css/meuestilo.css">
 </head>
 <body>
-    
-    <h1 title="tt"> Aula 1 de css</h1>
+    <h1 class="margen-titulo"> Aula 1 de css</h1>
     <p class="paragrafo">texto da aula 1 de css meno</p>
+    
     <p class="paragrafo-2">Meu outro texto</p>
+    <P id="textosimples">aqui é um texto simple </P>
+    <h2 class="margen-titulo">titulo dos crias</h2>
 </body>
 </html>
