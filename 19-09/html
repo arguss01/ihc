@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        p{
+            font-family: Arial, helvetica,sans-serif;
+            font-size: 20pt;
+            color: #224e22;
+        }
+    </style>
+</head>
+<body>
+    
+    <h1> Aula 1 de css</h1>
+    <p>texto da aula 1 de css meno</p>
 
+</body>
+</html>
