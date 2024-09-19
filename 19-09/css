@@ -25,4 +25,12 @@ h1{
     border:10px solid#ff0000;
     padding-top: 10px;
 }
+.margen-paragrafo{
+    margin: 45px 40px 10px 50px ;
+    border-top: 5px solid #000;
+    border-right: 10px solid #000;
+    border-bottom: 8px solid #ccc;
+    border-left: 20px solid #ccc;
+    padding: 15px 30px 10px 40px;
 
+}
