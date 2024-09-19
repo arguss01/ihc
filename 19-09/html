@@ -8,9 +8,9 @@
 </head>
 <body>
     <h1 class="margen-titulo"> Aula 1 de css</h1>
-    <p class="paragrafo">texto da aula 1 de css meno</p>
+    <p class="margen-paragrafo">texto da aula 1 de css meno</p>
     
-    <p class="paragrafo-2">Meu outro texto</p>
+    <p class="margen-paragrafo">Meu outro texto</p>
     <P id="textosimples">aqui é um texto simple </P>
     <h2 class="margen-titulo">titulo dos crias</h2>
 </body>
