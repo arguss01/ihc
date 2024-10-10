@@ -77,16 +77,15 @@ article, figure {
 }
 
 .card{
-    border: 2px solid #388E3C;
+    display: contents;
     padding: 20px;
     margin-top: 20px;
     margin-bottom: 10px;
-    background-color: #fff;
-    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1); 
     border-radius: 10px;
     margin-right: 0px;
     margin-left: 0px;
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 .card2{
     width: 40vw;
@@ -102,17 +101,20 @@ article, figure {
     font-family: Arial, Helvetica, sans-serif; 
 }
 .card h2 {
-    font-size: 24px;
+    font-size: 35px;
     color: #1c1c1c;
 }
 .card p {
-    font-size: 16px;
+    font-size: 22px;
     width: 100%;
     padding: 10px;
 }
+.card2 p{
+    font-size: 22px;
+}
 figure img{
+    margin: 0 auto;
     max-width: 100%;
-    height: auto;
 }
 table{
     width: 100%;
@@ -135,7 +137,7 @@ table tr:first-child td:last-child {
 }
 
 table tr:nth-child(odd) {
-    background-color: #f0f0f0;
+    background-color: #8b8b8b;
 }
 
 table tr:nth-child(even) {
@@ -144,4 +146,43 @@ table tr:nth-child(even) {
 table td, table th{
     padding: 10px;
     border: 0px;
+}
+.container-card-galeria {
+    display: flex;
+    border: 0px solid #fff;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+.card-galeria {
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin: 10px;
+    width: 18%;
+    background-color: #fff;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    color: #000;
+}
+.card-galeria img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+.card-galeria h2 {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card-galeria p  {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card-galeria a {
+    text-decoration: none;
+    color: #0078FF;
+}
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: Bold;
+    text-align: center;
+    padding-top: 25px;
 }
