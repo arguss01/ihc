@@ -5,27 +5,136 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style rel="stylesheet">
-        [class ^= col] {border: 1px solid #f00;}
+        .row {border: 1px solid blue;height: 90px; margin-bottom: 20px;}
+        [class ^= col] {border: 1px solid rgb(216, 20, 20);}
     </style>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 </head>
 <body>
     <div class="container">
-        <div class="row">
-            <div class="col-2">
-                Coluna
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-4">
+            <div class="col">
+                card 1
             </div>
-            <div class="col-5">
-                Coluna 
+            <div class="col">
+                card 2 
             </div>
-            <div class="col-5">
-                Coluna 
+            <div class="col">
+                card 3
             </div>
-            <div class="col-2">
-                Coluna 
+            <div class="col">
+                card 4 
+            </div>
+            <div class="col">
+                card 5 
+            </div>
+            <div class="col">
+                card 6 
+            </div>
+            <div class="col">
+                card 8 
+            </div>
+            <div class="col">
+                card 9 
             </div>
         </div>
     </div>
+    <h3 class="mt-5">gutters</h3>
+        <div class="row row-cols-lg-2 lg-4">
+            <div class="col">
+                card 1
+            </div>
+            <div class="col">
+                card 2 
+            </div>
+            <div class="col">
+                card 3
+            </div>
+            <div class="col">
+                card 4 
+            </div>
+            <div class="col">
+                card 5 
+            </div>
+            <div class="col">
+                card 6 
+            </div>
+            <div class="col">
+                card 8 
+            </div>
+        </div>
+        <div class="container-lg">
+            <div class="row">
+                <div class="col">
+                    coluna 1
+                </div>
+                <div class="col">
+                    coluna 2 
+                </div>
+                <div class="col">
+                    coluna 3
+                </div>
+                <div class="col">
+                    coluna 4 
+                </div>
+                <div class="col">
+                    coluna 5 
+                </div>
+                <div class="col">
+                    coluna 6 
+                </div>
+                <div class="col">
+                    coluna 7
+                </div>
+                <div class="col">
+                    coluna 8 
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            align-items-center
+            <div class="row align-items-center">
+                <div class="col">
+                    celula 1
+                </div>
+                <div class="col">
+                    celula 2 
+                </div>
+                <div class="col">
+                    celula 3
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            align-items-start (valor css inicial)
+            <div class="row align-items-start">
+                <div class="col">
+                    coluna 1
+                </div>
+                <div class="col">
+                    coluna 2 
+                </div>
+                <div class="col">
+                    coluna 3
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            align-items-end 
+            <div class="row align-items-end">
+                <div class="col">
+                    coluna 1
+                </div>
+                <div class="col">
+                    coluna 2 
+                </div>
+                <div class="col">
+                    coluna 3
+                </div>
+            </div>
+        </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
 </html>
